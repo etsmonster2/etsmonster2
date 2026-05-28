@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @etsmonster2
-- 👀 I’m interested in games
-- 🌱 I’m currently learning making games
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me, idk
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like waffles
+:P
